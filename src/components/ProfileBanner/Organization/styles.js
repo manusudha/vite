@@ -12,7 +12,7 @@ const useStyles = makeStyles(theme => ({
   profileCoverImg: {
     zIndex: "-1000",
     width: "100%",
-    height: "280px",
+    height: "345px",
     objectFit: "cover"
   },
 
